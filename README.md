@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería Informática en la Universidad del Salvador (USAL). Mi pasión por la tecnología y el aprendizaje me ha llevado a especializarme en el lenguaje de programación C, aunque también tengo experiencia trabajando en Java. Utilizo herramientas como VSCode, Visual Studio Community e IntelliJ IDEA para desarrollar mis proyectos y mejorar mis habilidades.
+Soy estudiante de Ingeniería Informática en la Universidad de Salamanca (USAL). Mi pasión por la tecnología y el aprendizaje me ha llevado a especializarme en el lenguaje de programación C, aunque también tengo experiencia trabajando en Java. Utilizo herramientas como VSCode, Visual Studio Community e IntelliJ IDEA para desarrollar mis proyectos y mejorar mis habilidades.
 
 ## Intereses
 
