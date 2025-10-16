@@ -1,5 +1,3 @@
-![Banner](https://github.com/Ricardo-Guerra-Carreno/tu-repo/blob/main/banner.png?raw=true)
-
 # 👋 Hola, soy Ricardo Guerra Carreño
 
 ![Foto de perfil](https://github.com/Ricardo-Guerra-Carreno.png)
